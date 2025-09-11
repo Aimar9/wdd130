@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+header {
+    display: inline-block;
+    width: 600px;
+    background-color: #333;
+    color: white;
+    padding: 1px;
+    margin-top: 2px;
+    font-size: 24px;
+}
+
+img {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    width: 325px;
+}
+
+section {
+    padding: 10px;
+    margin: 15px auto;
+    width: 320px;
+    background-color: rgb(217, 214, 214);
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+    border-bottom: 2px solid #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1px;
+    margin-top: 2px;
+    font-size: 18px;
+    display: inline-block;
+    width: 600px;
+}
