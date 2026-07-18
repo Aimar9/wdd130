@@ -51,11 +51,6 @@ article {
     padding: 8px;
 }
 
-nav {
-    display: flex;
-    flex-direction: column;
-}
-
 .socialmedia a {
     text-decoration: none;
 }
